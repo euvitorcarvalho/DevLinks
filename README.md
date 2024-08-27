@@ -34,4 +34,4 @@ O DevLinks é um agregados de links para usar como cartão de visitas online.
 
 ## 🔖 Deploy
 
-Você pode visualizar e testar o projeto através [DESSE LINK]().
+Você pode visualizar e testar o projeto através [DESSE LINK](https://vitordevlinks.netlify.app).
